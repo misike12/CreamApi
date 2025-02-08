@@ -1,4 +1,4 @@
-### CreamInstaller: Automatic DLC Unlocker Installer & Configuration Generator
+### CreamInstaller: Automatic DLC Unlocker Installer & Configuration Generatorr
 
 # ⚠️ Disclaimer
 
